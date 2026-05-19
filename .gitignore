@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# Ignoruj plik .env konkretnie w folderze backend
+backend/.env
+
 # production
 /build
 
