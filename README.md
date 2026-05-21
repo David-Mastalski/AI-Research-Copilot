@@ -64,6 +64,7 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 ### Zainstaluj zależności
+Otwórz .env i wpisz swój klucz: OPENAI_API_KEY=
 ```bash
 cp .env.example .env
 ```
