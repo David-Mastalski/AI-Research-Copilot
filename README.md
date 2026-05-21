@@ -43,7 +43,7 @@ git clone https://github.com/David-Mastalski/AI-Research-Copilot.git
 cd AI-Research-Copilot
 ```
 
-### Backend
+## Backend
 ```bash
 cd backend
 ```
@@ -69,7 +69,7 @@ cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
-### Frontend
+## Frontend
 ```bash
 cd frontend
 
