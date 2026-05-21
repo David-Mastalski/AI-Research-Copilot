@@ -21,8 +21,6 @@ export default function Home() {
   const [state, setState] = useState<AppState>(initialState);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
 
-  console.log(state);
-
   const isLoading =
     state.status === "uploading" || state.status === "analyzing";
 
