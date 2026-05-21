@@ -29,10 +29,10 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 | LLM | OpenAI GPT-4o-mini |
 | Konfiguracja | pydantic-settings, python-dotenv |
 
-## 🚀 Uruchomienie lokalne
+## Local Setup
 
-### Wymagania
+### Prerequisites
 
 - Python 3.12+
 - Node.js 18+
-- Klucz API OpenAI → [platform.openai.com](https://platform.openai.com/api-keys)
+- OpenAI API Key → [platform.openai.com](https://platform.openai.com/api-keys)
