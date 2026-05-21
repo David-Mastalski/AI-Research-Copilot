@@ -28,4 +28,3 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 | PDF Parsing | pypdf |
 | LLM | OpenAI GPT-4o-mini |
 | Konfiguracja | pydantic-settings, python-dotenv |
-| Serwer ASGI | Uvicorn |
