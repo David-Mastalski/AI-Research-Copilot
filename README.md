@@ -18,3 +18,14 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
 - 💡 **Insights** — conclusions, limitations, and future research directions
 
 The project was developed as a portfolio MVP, combining a modern frontend with an LLM-powered backend.
+
+## Tech Stack
+
+| Warstwa | Technologia |
+|---|---|
+| Frontend | Next.js 15, TypeScript, Tailwind CSS |
+| Backend | Python 3.12, FastAPI |
+| PDF Parsing | pypdf |
+| LLM | OpenAI GPT-4o-mini |
+| Konfiguracja | pydantic-settings, python-dotenv |
+| Serwer ASGI | Uvicorn |
