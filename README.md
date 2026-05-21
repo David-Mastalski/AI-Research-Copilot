@@ -8,3 +8,13 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+## About the project
+
+**AI Research Copilot** is a web application that allows you to upload a scientific paper in PDF format and receive the following within seconds:
+
+- 📄 **Summary** — a concise abstract of the paper
+- 🔑 **Key Points** — the most important discoveries and facts
+- 💡 **Insights** — conclusions, limitations, and future research directions
+
+The project was developed as a portfolio MVP, combining a modern frontend with an LLM-powered backend.
