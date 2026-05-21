@@ -36,3 +36,30 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 - Python 3.12+
 - Node.js 18+
 - OpenAI API Key → [platform.openai.com](https://platform.openai.com/api-keys)
+
+### 1. Backend
+
+```bash
+cd backend
+
+# Utwórz wirtualne środowisko
+py -3.12 -m venv .venv
+
+# Aktywuj (Windows)
+.venv\Scripts\activate
+
+# Aktywuj (macOS / Linux)
+source .venv/bin/activate
+
+# Zainstaluj zależności
+pip install -r requirements.txt
+
+# Skonfiguruj zmienne środowiskowe
+cp .env.example .env
+# Otwórz .env i wpisz swój klucz: OPENAI_API_KEY=sk-...
+
+# Uruchom serwer
+uvicorn app.main:app --reload --port 8000
+```
+
+
