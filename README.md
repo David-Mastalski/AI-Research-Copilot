@@ -1,3 +1,5 @@
+
+
 # 🔬 AI Research Copilot
 
 Upload a research paper PDF → get a structured summary, key findings, and actionable insights — powered by GPT-4.
@@ -8,6 +10,9 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+<img width="599" height="440" alt="Zrzut ekranu 2026-05-21 210821" src="https://github.com/user-attachments/assets/4e35c1c6-c411-4a8f-8395-ce1aa0e36163" />
+<img width="572" height="438" alt="Zrzut ekranu 2026-05-21 210658" src="https://github.com/user-attachments/assets/562f7d03-5a97-4807-884d-3be96d9ac342" />
 
 ## About the project
 
