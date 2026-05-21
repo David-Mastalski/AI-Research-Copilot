@@ -47,28 +47,24 @@ cd AI-Research-Copilot
 ```bash
 cd backend
 ```
-### Utwórz wirtualne środowisko
+### Create a virtual environment
 ```bash
 py -3.12 -m venv .venv
 ```
-### Aktywuj
+### Activate
 ```bash
 .venv\Scripts\activate
 ```
-### Zainstaluj zależności
+### Install requirements
 ```bash
 pip install -r requirements.txt
 ```
-### Skonfiguruj zmienne środowiskowe
-```bash
-pip install -r requirements.txt
-```
-### Zainstaluj zależności
+### Configure environment variables
 Otwórz .env i wpisz swój klucz: OPENAI_API_KEY=
 ```bash
 cp .env.example .env
 ```
-### Uruchom serwer
+### Start the server
 ```bash
 uvicorn app.main:app --reload
 ```
