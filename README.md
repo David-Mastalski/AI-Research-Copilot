@@ -11,6 +11,19 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="708" height="384" alt="Zrzut ekranu 2026-05-21 211036" src="https://github.com/user-attachments/assets/fe8d7154-ae00-4c23-9c28-7e49cdbdbba6" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img width="710" height="387" alt="Zrzut ekranu 2026-05-21 211217" src="https://github.com/user-attachments/assets/b247d10a-a36a-4957-987a-f7a30df79bbe" width="100%" />
+      <br><b>Podpis pod drugim zdjęciem</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ## About the project
 
