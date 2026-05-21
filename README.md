@@ -9,7 +9,6 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 <table width="100%">
   <tr>
