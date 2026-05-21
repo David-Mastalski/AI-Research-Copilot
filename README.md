@@ -60,7 +60,7 @@ py -3.12 -m venv .venv
 pip install -r requirements.txt
 ```
 #### Configure environment variables
-Otwórz .env i wpisz swój klucz: OPENAI_API_KEY=
+Open .env and enter your key: OPENAI_API_KEY=
 ```bash
 cp .env.example .env
 ```
