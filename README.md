@@ -37,6 +37,12 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 - Node.js 18+
 - OpenAI API Key → [platform.openai.com](https://platform.openai.com/api-keys)
 
+Clone repo
+```bash
+git clone https://github.com/David-Mastalski/AI-Research-Copilot.git
+cd ai-research-copilot
+```
+
 ### 1. Backend
 
 ```bash
