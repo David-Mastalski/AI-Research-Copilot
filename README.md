@@ -18,7 +18,14 @@ Upload a research paper PDF → get a structured summary, key findings, and acti
     </td>
     <td width="50%" align="center">
       <img width="710" height="387" alt="Zrzut ekranu 2026-05-21 211217" src="https://github.com/user-attachments/assets/b247d10a-a36a-4957-987a-f7a30df79bbe" width="100%" />
-      <br><b>Podpis pod drugim zdjęciem</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="709" height="387" alt="Zrzut ekranu 2026-05-21 211234" src="https://github.com/user-attachments/assets/373e6349-e77c-4c84-9595-d476e9cc670a" />
+    </td>
+    <td width="50%" align="center">
+      <img width="710" height="387" alt="Zrzut ekranu 2026-05-21 211323" src="https://github.com/user-attachments/assets/375dafc0-af4f-4a1b-bd62-be40ee3cff56" />
     </td>
   </tr>
 </table>
