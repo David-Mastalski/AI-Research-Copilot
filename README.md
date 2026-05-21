@@ -37,35 +37,40 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 - Node.js 18+
 - OpenAI API Key → [platform.openai.com](https://platform.openai.com/api-keys)
 
-Clone repo
+Clone repozitory
 ```bash
 git clone https://github.com/David-Mastalski/AI-Research-Copilot.git
-cd ai-research-copilot
+cd AI-Research-Copilot
 ```
 
-### 1. Backend
-
+### Backend
 ```bash
 cd backend
-
-# Utwórz wirtualne środowisko
-py -3.12 -m venv .venv
-
-# Aktywuj (Windows)
-.venv\Scripts\activate
-
-# Aktywuj (macOS / Linux)
-source .venv/bin/activate
-
-# Zainstaluj zależności
-pip install -r requirements.txt
-
-# Skonfiguruj zmienne środowiskowe
-cp .env.example .env
-# Otwórz .env i wpisz swój klucz: OPENAI_API_KEY=sk-...
-
-# Uruchom serwer
-uvicorn app.main:app --reload --port 8000
 ```
+### Utwórz wirtualne środowisko
+```bash
+py -3.12 -m venv .venv
+```
+### Aktywuj
+```bash
+.venv\Scripts\activate
+```
+### Zainstaluj zależności
+```bash
+pip install -r requirements.txt
+```
+### Skonfiguruj zmienne środowiskowe
+```bash
+pip install -r requirements.txt
+```
+### Zainstaluj zależności
+```bash
+cp .env.example .env
+```
+### Uruchom serwer
+```bash
+uvicorn app.main:app --reload
+```
+
 
 
