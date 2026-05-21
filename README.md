@@ -1,6 +1,6 @@
 
 
-# 🔬 AI Research Copilot
+# AI Research Copilot
 
 Upload a research paper PDF → get a structured summary, key findings, and actionable insights — powered by GPT-4.
 
