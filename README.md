@@ -21,7 +21,7 @@ The project was developed as a portfolio MVP, combining a modern frontend with a
 
 ## Tech Stack
 
-| Warstwa | Technologia |
+| Layer | Technology |
 |---|---|
 | Frontend | Next.js 15, TypeScript, Tailwind CSS |
 | Backend | Python 3.12, FastAPI |
